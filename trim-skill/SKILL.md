@@ -44,7 +44,7 @@ Correct > Triggerable > Semantically Clear > Discoverable > Shorter
 
 ## Strategies
 
-- **Externalize**: Externalize only substantial supporting material that does not affect the main path, such as long examples, large few-shot blocks, variant details, large parameter tables, template boilerplate, or extended explanations. If the target skill does not support external files, skip externalization.
+- **Externalize**: Move out only substantial supporting material that does not affect the main path, such as long examples, large few-shot blocks, variant details, large parameter tables, template boilerplate, or extended explanations. If the target skill does not support external files, skip externalization.
 - **Delete**: Remove synonymous repetition, repeated statements of the same control rule, non-instructional narrative, generic model advice, modifiers with no decision value, and full parameter tables that can be replaced by `--help` or reference files.
 - **Merge/Compress**: Convert prose into headings plus lists, if-then rules, decision rules, or imperative rules. Merge multiple synonymous rules, similar example groups, or explanatory passages into a stronger, shorter expression that still preserves constraints.
 
