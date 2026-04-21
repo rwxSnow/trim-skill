@@ -29,6 +29,12 @@ Core concepts:
 - **CL is the single source of truth**: nothing outside the CL gets touched.
 - **User approval is a hard gate**: no edits before sign-off; all vetoed means stop.
 
+## Install
+
+Simply open your Claude Code, Codex, or other AI tools, and enter this single command:
+
+`Install this skill: https://github.com/rwxSnow/trim-skill`
+
 ## Usage
 
 Simply ask your agent to trim a skill:
